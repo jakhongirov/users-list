@@ -38,7 +38,7 @@ function LoginMain() {
 						required
 					/>
 					<input
-						className='login__username'
+						className='login__password'
 						type='password'
 						defaultValue='cityslicka'
 						placeholder='password'
