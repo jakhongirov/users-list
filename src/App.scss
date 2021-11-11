@@ -1,0 +1,37 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-size: 16px;
+	line-height: 1.5;
+}
+
+a {
+	text-decoration: none;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	vertical-align: middle;
+}
+
+.container,
+.container-sm {
+	max-width: 1140px;
+	margin: 0 auto;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.container-sm {
+	max-width: 904px;
+}
+
+.section__heading {
+	margin-top: 0;
+	font-family: 'Open Sans Condensed';
+	font-weight: bold;
+	font-size: 36px;
+	line-height: 43px;
+	color: #000;
+}
